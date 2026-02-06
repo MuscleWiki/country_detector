@@ -2,7 +2,7 @@ group 'com.hwkim1127.country_detector'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.9.10'
+    ext.kotlin_version = '1.9.23'
     repositories {
         google()
         mavenCentral()
@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     namespace 'com.hwkim1127.country_detector'
     
-    compileSdkVersion 33
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17

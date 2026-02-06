@@ -5,8 +5,8 @@ homepage: https://hyunwookim.net
 repository: https://github.com/hwkim1127/country_detector.git
 
 environment:
-  sdk: '>=3.2.5 <4.0.0'
-  flutter: '>=3.3.0'
+  sdk: ">=3.2.5 <4.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
@@ -16,7 +16,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
